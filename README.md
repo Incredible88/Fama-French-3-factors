@@ -1,6 +1,6 @@
 # Asset pricing Model: CAPM vs Fama-French 3 factors Program
 Project in Programming with Advanced Computer Languages 2023  
-St.Gallen Dec 2022  
+St.Gallen MAY 2023 
 Project description:  
 Download the Fama-French portfolios and the Fama-French factors from Kenneth French’s home-page. Use the equally weighted portfolios, monthly data for 1960-today. Construct excess returns of the portfolios by subtracting the risk-free rate. Reproduce the figures below (taken from J.H.Cochrane, asset pricing, chapter 20).
   
